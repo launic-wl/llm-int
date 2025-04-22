@@ -1,5 +1,5 @@
 # Go to llm-int folder
-cd <path-to>/llm-int/
+cd [path-to]/llm-int/
 
 
 # Create a new virtual environment
